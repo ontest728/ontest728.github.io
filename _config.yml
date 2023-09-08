@@ -1,10 +1,9 @@
 # Site settings
-title: Jekyll Doc Theme
+title: SuperPuper Site
 email: your-email@domain.com
 description: >
-  Jekyll Template for Project Websites
-  providing documentation and blog post pages.
-lang: en-US
+  ouuuuuu
+lang: ru-RU
 
 baseurl: "/jekyll-doc-theme" # the subpath of your site, e.g. /blog/
 url: https://aksakalli.github.io/jekyll-doc-theme # the base hostname & protocol for your site
